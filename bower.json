@@ -1,0 +1,23 @@
+{
+  "name": "bare",
+  "authors": [
+    "Suthon <suthon@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.6",
+    "babel": "*",
+    "bootstrap": "~3.3.6"
+  }
+}
